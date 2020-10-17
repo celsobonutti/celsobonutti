@@ -1,11 +1,13 @@
 #### Hello there, I'm [Celso](https://cel.so)! 👽
 
-I'm a developer from Salvador, Bahia.
-I work (remotely) at [Ingenious](https://www.ingenious.agency/), a software company from Uruguay. Sometimes I also do some freelancing for [e-rural](https://erural.net).
+I work as a developer in [Warren](https://warren.com.br/), a investment company. Right now work on [Warren Educação](https://educacao.warren.com.br/), an economics education platform.
 
-Lately I've been playing a lot with Elixir (Phoenix and LiveView), Elm and ReasonML ([sometimes all of them](https://github.com/celsobonutti/elm-webrtc/)), besides some Rust when I wanna do something different.
+I'm always trying something new, specially new languages ;)
 
-I really like to learn new things so, if you have something interesting, please share! You can reach me on [Telegram](https://t.me/robertinhobaptista) and [Twitter](https://twitter.com/celsobonutti).
+Right now working on a [chip8 emulator](https://github.com/celsobonutti/xipe-oito) with both WASM and native desktop support, using the incredible [iced](https://github.com/hecrj/iced) library.
+Also learning oCaml to do create some things with Reason Native, since it's my favorite language for web development.
+
+You can reach me on [telegram](https://t.me/robertinhobaptista) or [twitter](https://twitter.com/celsobonutti).
 
 #### Funcional Salvador 🅰️ ➡️ 🅱️
 I'm one of the maintainers of [funcional-ssa](https://github.com/funcional-ssa/), an organization devoted to spreading the word about functional programming languages in Salvador, Bahia.
