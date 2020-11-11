@@ -7,9 +7,9 @@ My last project was a [chip8 emulator](https://github.com/celsobonutti/xipe-oito
 You can reach me on [telegram](https://t.me/robertinhobaptista) or [twitter](https://twitter.com/celsobonutti).
 
 ### Learning
-- 🦀 Rust
-- 🐫 oCaml / Reason
-- ⌨️ Haskell
+🦀 Rust
+🐫 oCaml / Reason
+⌨️ Haskell
 
 ### Funcional Salvador 🅰️ ➡️ 🅱️
 I'm one of the maintainers of [funcional-ssa](https://github.com/funcional-ssa/), an organization devoted to spreading the word about functional programming languages in Salvador, Bahia.
