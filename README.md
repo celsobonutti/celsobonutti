@@ -8,7 +8,9 @@ You can reach me on [telegram](https://t.me/robertinhobaptista) or [twitter](htt
 
 ### Learning
 🦀 Rust
+
 🐫 oCaml / Reason
+
 ⌨️ Haskell
 
 ### Funcional Salvador 🅰️ ➡️ 🅱️
