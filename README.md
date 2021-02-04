@@ -1,6 +1,6 @@
 ### Hello there, I'm [Celso](https://cel.so)! 👽
 
-I'm always trying something new, specially new languages ;)
+I'm a webdeveloper who's currently trying to get into new areas
 
 My last project was a [chip8 emulator](https://github.com/celsobonutti/xipe-oito) with both WASM and native desktop support.
 
